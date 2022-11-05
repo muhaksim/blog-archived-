@@ -1,0 +1,9 @@
+---
+title: Projects
+page-layout: full
+toc: true
+comments: false
+---
+
+
+These are the projects section.

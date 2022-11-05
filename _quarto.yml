@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Muhammad Abdullahi"
+  open-graph: true
   navbar:
     right:
       - about.qmd
@@ -11,6 +12,16 @@ website:
         href: https://github.com/muhaksim
       - icon: twitter
         href: https://twitter.com/muhaksim
+    left: 
+          - text: Posts
+            file: index.qmd
+          - text: Tils
+            file: tils/index.qmd
+          - projects.qmd
+  twitter-card:
+    creator: "@muhaksim"
+    site: "@muhaksim"
+
 format:
   html:
     theme: flatly

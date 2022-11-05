@@ -1,0 +1,16 @@
+---
+title: TILs
+listing: 
+    contents: tils
+    sort: "date desc"
+    type: table
+    categories: true
+    fields: [date, title]
+    sort-ui: false
+    filter-ui: false
+page-layout: full
+author: ''
+comments: false
+---
+
+This is today I learned section

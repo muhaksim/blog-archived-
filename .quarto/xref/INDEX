@@ -10,5 +10,14 @@
   },
   "posts/welcome/index.qmd": {
     "index.html": "52ec61e5"
+  },
+  "tils/index.qmd": {
+    "index.html": "4a87cecb"
+  },
+  "projects.qmd": {
+    "projects.html": "d76aef62"
+  },
+  "tils/first-lecture.ipynb": {
+    "first-lecture.html": "40126f81"
   }
 }
