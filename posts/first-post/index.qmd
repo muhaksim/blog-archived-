@@ -1,0 +1,6 @@
+---
+title: "First Post"
+author: "Muhammad Abdullahi"
+date: "2022-11-05"
+categories: [normal]
+---
