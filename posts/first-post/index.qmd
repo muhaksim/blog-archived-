@@ -4,3 +4,7 @@ author: "Muhammad Abdullahi"
 date: "2022-11-05"
 categories: [normal]
 ---
+
+![](thumbnail.jpg)
+
+This is just me trying to get it work.

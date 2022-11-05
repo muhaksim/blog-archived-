@@ -1,6 +1,6 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+description: "This is an experiment"
 date: "2022-11-02"
 categories: [news]
 ---
