@@ -1,14 +1,19 @@
 ---
-title: "Muhammad Abdullahi"
 listing:
   contents: posts
   sort: "date desc"
   type: default
   categories: true
-  sort-ui: false
-  filter-ui: false
+  # sort-ui: false
+  # filter-ui: false
 page-layout: full
+author: ''
 title-block-banner: true
+comments: false
 ---
+
+# My name is Muhammad, ⌨️
+
+This is my blog where I want to write what I learned, achieved and document my life generally, insha'Allah
 
 
