@@ -2,9 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/first_model/model1.html",
-      "/posts/model1.html",
-      "/posts/welcome/index.html"
+      "/posts/first_model/model1.html"
     ]
   },
   {
