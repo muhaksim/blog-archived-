@@ -2,11 +2,15 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/first_model/model1.html",
+      "/posts/model1.html",
       "/posts/welcome/index.html"
     ]
   },
   {
     "listing": "/tils/index.html",
-    "items": []
+    "items": [
+      "/tils/day-one.html"
+    ]
   }
 ]

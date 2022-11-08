@@ -1,7 +1,7 @@
 ---
 title: TILs
-listing: 
-    contents: tils
+listing:
+    contents: .
     sort: "date desc"
     type: table
     categories: true
@@ -11,6 +11,8 @@ listing:
 page-layout: full
 author: ''
 comments: false
+colortheme: black
+
 ---
 
 This is today I learned section

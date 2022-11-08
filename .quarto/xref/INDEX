@@ -19,5 +19,14 @@
   },
   "tils/first-lecture.ipynb": {
     "first-lecture.html": "40126f81"
+  },
+  "tils/day-one.ipynb": {
+    "day-one.html": "719dcb32"
+  },
+  "posts/first_model/model1.ipynb": {
+    "model1.html": "d49ecb63"
+  },
+  "posts/model1.ipynb": {
+    "model1.html": "564bcd41"
   }
 }

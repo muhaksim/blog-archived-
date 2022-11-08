@@ -15,8 +15,7 @@ website:
     left: 
           - text: Posts
             file: index.qmd
-          - text: Tils
-            file: tils/index.qmd
+          - tils/index.qmd
           - projects.qmd
   twitter-card:
     creator: "@muhaksim"
